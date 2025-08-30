@@ -1,6 +1,65 @@
-5678 -> Bulls:2, Cows:0
+===== GAME START 2025-08-30 12:52:58==========
+Enter 4 unique digits
+  0 on the first place  is FORBIDDEN
+===== GAME START 2025-08-30 12:53:29==========
+Enter 4 unique digits
+  0 on the first place  is FORBIDDEN
+4567 -> Bulls:2, Cows:1
+Enter 4 unique digits
+  0 on the first place  is FORBIDDEN
+4567 -> Bulls:2, Cows:1
+Enter 4 unique digits
+  0 on the first place  is FORBIDDEN
+4267 -> Bulls:3, Cows:0
+Enter 4 unique digits
+  0 on the first place  is FORBIDDEN
+5267 -> Bulls:4, Cows:0
+WIN in 4 attempts!
+===== GAME END 2025-08-30 12:54:16 =====
+===== GAME START 2025-08-30 12:55:06==========
 
-5612 -> Bulls:2, Cows:1
+5678 -> Bulls:0, Cows:2
 
-5641 -> Bulls:4, Cows:0
+===== GAME START 2025-08-30 12:55:35==========
+===== GAME START 2025-08-30 12:56:04==========
+4567 -> Bulls:0, Cows:1
+===== GAME START 2025-08-30 12:56:19==========
+5678 -> Bulls:0, Cows:1
+empty input
+invalid input:  Need 4 digits!
+invalid input:  Need 4 digits!
+empty input
+4567 -> Bulls:0, Cows:1
+empty input
+empty input
+empty input
+empty input
+empty input
+6091 -> Bulls:4, Cows:0
+WIN in 5 attempts!
+===== GAME END 2025-08-30 12:57:55 =====
+===== GAME START 2025-08-30 13:04:14==========
+2538 -> Bulls:4, Cows:0
+WIN in 1 attempts!secret was 2538
+===== GAME END 2025-08-30 13:04:20 =====
+===== GAME START 2025-08-30 13:04:56==========
 
+===== GAME START 2025-08-30 13:06:36==========
+invalid input: digits must be unique
+===== GAME START 2025-08-30 13:06:52==========
+4567 -> Bulls:0, Cows:1
+4567 -> Bulls:0, Cows:1
+4567 -> Bulls:0, Cows:1
+===== GAME START 2025-08-30 13:12:59==========
+4567 -> Bulls:2, Cows:1
+1234 -> Bulls:0, Cows:1
+invalid input: digits must be unique
+===== GAME START 2025-08-30 13:17:50==========
+5678 -> Bulls:0, Cows:2
+4567 -> Bulls:0, Cows:1
+empty input
+6789 -> Bulls:1, Cows:1
+7182 -> Bulls:4, Cows:0
+WIN in 4 attempts!
+  Secret was 7182
+===== GAME END 2025-08-30 13:19:16 =====
