@@ -40,7 +40,7 @@ public class BullsAndCowsAppl {
 
                 if (line.equalsIgnoreCase("exit")) {
                     System.out.println(GREEN + "Game over!" + RESET);
-                    bWriter.write("Game over");
+                    bWriter.write("Game over"+ LocalDateTime.now().format(dtf) + " =====");
                     bWriter.newLine();
                     bWriter.flush();
                     break;
@@ -66,7 +66,7 @@ public class BullsAndCowsAppl {
                     bWriter.flush();
 
                     if (result[0] == 4) {
-                        System.out.println( GREEN + "🎉 Congratulations! You guessed the number! 🎉" + RESET);
+                        System.out.println( GREEN + "🎉 Congratulations! You guessed the number! 🎉\n WIN in " + attempts+ " attempts"+ RESET);
                         bWriter.write("WIN in " + attempts + " attempts!\n "+ " Secret was "+ game.getSecret());
                         bWriter.newLine();
                         bWriter.write("===== GAME END " + LocalDateTime.now().format(dtf) + " =====");

@@ -69,3 +69,39 @@ WIN in 4 attempts!
 4563 -> Bulls:1, Cows:0
 invalid input:  Need 4 digits!
 Game over
+===== GAME START 2025-08-30 14:18:33==========
+2618 -> Bulls:4, Cows:0
+WIN in 1 attempts!
+  Secret was 2618
+===== GAME END 2025-08-30 14:19:16 =====
+===== GAME START 2025-08-30 14:19:19==========
+4567 -> Bulls:0, Cows:2
+9784 -> Bulls:4, Cows:0
+WIN in 2 attempts!
+  Secret was 9784
+===== GAME END 2025-08-30 14:19:30 =====
+===== GAME START 2025-08-30 14:19:47==========
+4567 -> Bulls:0, Cows:3
+6473 -> Bulls:4, Cows:0
+WIN in 2 attempts!
+  Secret was 6473
+===== GAME END 2025-08-30 14:19:56 =====
+===== GAME START 2025-08-30 14:20:22==========
+6543 -> Bulls:0, Cows:2
+4815 -> Bulls:4, Cows:0
+WIN in 2 attempts!
+  Secret was 4815
+===== GAME END 2025-08-30 14:20:33 =====
+===== GAME START 2025-08-30 14:20:48==========
+invalid input:  Need 4 digits!
+4567 -> Bulls:1, Cows:3
+7546 -> Bulls:4, Cows:0
+WIN in 3 attempts!
+  Secret was 7546
+===== GAME END 2025-08-30 14:20:59 =====
+===== GAME START 2025-08-30 14:21:25==========
+3456 -> Bulls:0, Cows:2
+7648 -> Bulls:4, Cows:0
+WIN in 2 attempts!
+  Secret was 7648
+===== GAME END 2025-08-30 14:21:34 =====
