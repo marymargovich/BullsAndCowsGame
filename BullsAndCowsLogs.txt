@@ -64,3 +64,8 @@ WIN in 4 attempts!
   Secret was 7182
 ===== GAME END 2025-08-30 13:19:16 =====
 
+===== GAME START 2025-08-30 13:24:26==========
+4567 -> Bulls:1, Cows:0
+4563 -> Bulls:1, Cows:0
+invalid input:  Need 4 digits!
+Game over
