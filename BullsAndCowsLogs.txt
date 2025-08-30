@@ -1,0 +1,6 @@
+5678 -> Bulls:2, Cows:0
+
+5612 -> Bulls:2, Cows:1
+
+5641 -> Bulls:4, Cows:0
+
